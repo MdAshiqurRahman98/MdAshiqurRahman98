@@ -27,3 +27,31 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MdAshiqurRahman98&theme=soft-green&hide_border=true&background=0D1117&stroke=0D1117" />
 </p>
+<br>
+
+## :book: Projects
+
+### BlogHub - A Blog Web App
+
+- Frontend: https://github.com/MdAshiqurRahman98/BlogHub-client
+- Backend: https://github.com/MdAshiqurRahman98/BlogHub-server
+- Live: https://bloghubweb.netlify.app
+
+### Tech Electronics Brand Shop
+
+- Frontend: https://github.com/MdAshiqurRahman98/tech-electronics-brand-shop-client
+- Backend: https://github.com/MdAshiqurRahman98/tech-electronics-brand-shop-server
+- Live: https://techelectronicsbrandshop.netlify.app
+
+### Educational and Training Event Management
+
+- Frontend: https://github.com/MdAshiqurRahman98/educational-and-training-event-management
+- Live: https://educationalandtrainingeventmanagement.netlify.app
+
+### Asset Management Web App
+
+- Frontend: https://github.com/MdAshiqurRahman98/asset-management-web-app-client
+- Backend: https://github.com/MdAshiqurRahman98/asset-management-web-app-server
+- Live: https://assetmanagementweb.netlify.app
+
+<br>
