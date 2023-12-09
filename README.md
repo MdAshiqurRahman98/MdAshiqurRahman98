@@ -16,7 +16,7 @@
   </a>
 </p><br>
 
-## :current: Current Overview
+## ⚡ Current Overview
  
 ### 🌱 I’m exploring - Next.js 
 ### 💬 Ask me about - React 
