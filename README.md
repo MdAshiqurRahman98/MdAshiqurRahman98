@@ -11,9 +11,9 @@
 
 <br>
 <p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,netlify,vercel&perline=5)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,vscode,netlify,vercel&perline=5" />
+  </a>
 </p><br>
 
 <!--
