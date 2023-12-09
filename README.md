@@ -11,9 +11,11 @@
 
 <br>
 <p align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,netlify,vercel)](https://skillicons.dev)
+
 </p><br>
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,netlify,vercel)](https://skillicons.dev)
+
 <!--
 **MdAshiqurRahman98/MdAshiqurRahman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
