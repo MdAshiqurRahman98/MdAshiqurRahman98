@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MdAshiqurRahman98/MdAshiqurRahman98/main/images/Cover%20photo.png" />
 
-## Hi there
+## Hi there,
 
 ### I'm MERN stack web application developer. I am passionate about computer and web application developing. Currently, I am learning Next.js. I dream to be an expert web application developer so that I can build professional and useful web application.
+<br>
 
 ## :computer: Tools & Technologies that I Know
 
