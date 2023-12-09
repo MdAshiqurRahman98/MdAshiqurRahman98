@@ -7,12 +7,12 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MdAshiqurRahman98&theme=soft-green&hide_border=true&background=0D1117&stroke=0D1117" />
 </p>
 
-## :computer: Technologies that I know
+## :computer: Tools & Technologies that I know
 
 <br>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,netlify,vercel&perline=5)](https://skillicons.dev)
 
 </p><br>
 
