@@ -17,7 +17,7 @@
 ## ⚡ Current Overview
  
 ### 🌱 I’m exploring - Next.js 
-### 💬 Ask me about - React 
+### 💬 Ask me about - React, Node.js 
 ### 📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
 <br>
 
@@ -27,7 +27,6 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MdAshiqurRahman98&theme=soft-green&hide_border=true&background=0D1117&stroke=0D1117" />
 </p>
-<br>
 
 ## :book: Projects
 
