@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/tbrJjDT/Cover-photo.png" />
+<img src="https://raw.githubusercontent.com/MdAshiqurRahman98/MdAshiqurRahman98/main/images/Cover%20photo.png" />
 
 <!--
 **MdAshiqurRahman98/MdAshiqurRahman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
