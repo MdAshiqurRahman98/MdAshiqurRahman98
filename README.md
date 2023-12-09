@@ -26,7 +26,7 @@
 <br>
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MdAshiqurRahman98&theme=soft-green&hide_border=true&background=0D1117&stroke=0D1117" />
-</p>
+</p><br>
 
 ## :book: Projects
 
@@ -52,5 +52,4 @@
 - Frontend: https://github.com/MdAshiqurRahman98/asset-management-web-app-client
 - Backend: https://github.com/MdAshiqurRahman98/asset-management-web-app-server
 - Live: https://assetmanagementweb.netlify.app
-
 <br>
