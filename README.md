@@ -2,7 +2,7 @@
 
 ## Hi there,
 
-### I'm MERN stack web application developer. I am passionate about computer and web application developing. Currently, I am learning Next.js. I dream to be an expert web application developer so that I can build professional and useful web application.
+### I'm CSE graduate and MERN stack web application developer. I am passionate about computer and web application developing. Currently, I am learning Next.js. I dream to be an expert web application developer so that I can build professional and useful web application.
 <br>
 
 ## :computer: Tools & Technologies that I Know
