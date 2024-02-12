@@ -2,7 +2,7 @@
 
 ## Hi there,
 
-### I'm CSE graduate. I have completed my graduation at Green University of Bangladesh.
+### I am CSE graduate. I have completed my graduation at Green University of Bangladesh.
 <br>
 
 ## :computer: Tools & Technologies that I Know
@@ -16,8 +16,8 @@
 
 ## ⚡ Current Overview
  
-   🌱 I’m exploring - Next.js 
-   💬 Ask me about - React, Node.js 
+   🌱 I’m exploring - Next.js <br>
+   💬 Ask me about - React, Node.js <br>
    📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
 <br>
 
