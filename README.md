@@ -16,9 +16,9 @@
 
 ## ⚡ Current Overview
  
-   🌱 I’m exploring - Next.js <br>
-   💬 Ask me about - React, Node.js <br>
-   📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
+### 🌱 I’m exploring - Next.js 
+### 💬 Ask me about - React, Node.js 
+### 📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
 <br>
 
 ## :chart_with_upwards_trend: Current Stats
