@@ -2,7 +2,7 @@
 
 ## Hi there,
 
-### I'm CSE graduate and MERN stack web application developer. I am passionate about computer and web application developing. Currently, I am learning Next.js. I dream to be an expert web application developer so that I can build professional and useful web application.
+### I'm CSE graduate. I have completed my graduation at Green University of Bangladesh.
 <br>
 
 ## :computer: Tools & Technologies that I Know
@@ -16,9 +16,9 @@
 
 ## ⚡ Current Overview
  
-### 🌱 I’m exploring - Next.js 
-### 💬 Ask me about - React, Node.js 
-### 📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
+   🌱 I’m exploring - Next.js 
+   💬 Ask me about - React, Node.js 
+   📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
 <br>
 
 ## :chart_with_upwards_trend: Current Stats
