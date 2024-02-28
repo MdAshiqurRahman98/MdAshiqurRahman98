@@ -2,7 +2,7 @@
 
 ## Hi there,
 
-### I am CSE graduate. I have completed my graduation at Green University of Bangladesh.
+### I am Md Ashiqur Rahman. I am CSE graduate. I have completed my graduation in BSc in Computer Science and Engineering at Green University of Bangladesh.
 <br>
 
 ## :computer: Tools & Technologies that I Know
@@ -14,10 +14,10 @@
   </a>
 </p><br>
 
-## ⚡ Current Overview
+## ⚡ Overview
  
-### 🌱 I’m exploring - Next.js 
-### 💬 Ask me about - React, Node.js 
+// ### 🌱 I’m exploring - Next.js 
+### 💬 Ask me about - React, Node.js, Express, MongoDB 
 ### 📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
 <br>
 
