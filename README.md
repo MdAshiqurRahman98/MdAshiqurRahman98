@@ -15,8 +15,8 @@
 </p><br>
 
 ## ⚡ Overview
- 
-// ### 🌱 I’m exploring - Next.js 
+
+<!-- ### 🌱 I’m exploring - Next.js  -->
 ### 💬 Ask me about - React, Node.js, Express, MongoDB 
 ### 📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
 <br>
