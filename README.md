@@ -30,26 +30,20 @@
 
 ## :book: Projects
 
-### BlogHub - A Blog Web App
+### TaskFlow - A Task Management App
 
-- Frontend: https://github.com/MdAshiqurRahman98/BlogHub-client
-- Backend: https://github.com/MdAshiqurRahman98/BlogHub-server
-- Live: https://bloghubweb.netlify.app
-
-### Tech Electronics Brand Shop
-
-- Frontend: https://github.com/MdAshiqurRahman98/tech-electronics-brand-shop-client
-- Backend: https://github.com/MdAshiqurRahman98/tech-electronics-brand-shop-server
-- Live: https://techelectronicsbrandshop.netlify.app
-
-### Educational and Training Event Management
-
-- Frontend: https://github.com/MdAshiqurRahman98/educational-and-training-event-management
-- Live: https://educationalandtrainingeventmanagement.netlify.app
+- Frontend: https://github.com/MdAshiqurRahman98/task-management-client
+- Backend: https://github.com/MdAshiqurRahman98/task-management-server
+- Live: https://dist-nine-jade.vercel.app
 
 ### Asset Management Web App
 
 - Frontend: https://github.com/MdAshiqurRahman98/asset-management-web-app-client
 - Backend: https://github.com/MdAshiqurRahman98/asset-management-web-app-server
 - Live: https://assetmanagementweb.netlify.app
+
+### Educational and Training Event Management
+
+- Frontend: https://github.com/MdAshiqurRahman98/educational-and-training-event-management
+- Live: https://educationalandtrainingeventmanagement.netlify.app
 <br>
