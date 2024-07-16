@@ -18,7 +18,7 @@
 
 <!-- ### 🌱 I’m exploring - Next.js  -->
 ### 💬 Ask me about - React, Node.js, Express.js, MongoDB 
-### 📫 How to reach me - MDASHIQUROFFICIAL@gmail.com
+### 📫 How to reach me - mdashiqurofficial@gmail.com
 <br>
 
 ## :chart_with_upwards_trend: Current Stats
