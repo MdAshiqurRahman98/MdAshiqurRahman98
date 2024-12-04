@@ -2,7 +2,7 @@
 
 ## Hi there,
 
-### I am Md Ashiqur Rahman. I am CSE graduate and MERN stack web application developer. I have completed my graduation in BSc in Computer Science and Engineering at Green University of Bangladesh.
+### I am Md Ashiqur Rahman. I am CSE graduate and programmer. I have completed my graduation in BSc in Computer Science and Engineering at Green University of Bangladesh.
 <br>
 
 ## :computer: Tools & Technologies that I Know
@@ -10,14 +10,14 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,vscode,netlify,vercel,ts,java&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,vscode,netlify,vercel,java,ts,selenium&perline=5" />
   </a>
 </p><br>
 
 ## ⚡ Overview
 
 <!-- ### 🌱 I’m exploring - Next.js  -->
-### 💬 Ask me about - React, Node.js, Express.js, MongoDB 
+### 💬 Ask me about - React, Node.js, Express, MongoDB, Software Testing 
 ### 📫 How to reach me - mdashiqurofficial@gmail.com
 <br>
 
