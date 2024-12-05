@@ -17,7 +17,7 @@
 ## ⚡ Overview
 
 <!-- ### 🌱 I’m exploring - Next.js  -->
-### 💬 Ask me about - React, Node.js, Express, MongoDB, Software Testing 
+### 💬 Ask me about - SQA, JavaScript, React, Node.js, Express, MongoDB
 ### 📫 How to reach me - mdashiqurofficial@gmail.com
 <br>
 
