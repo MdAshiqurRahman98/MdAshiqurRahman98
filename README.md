@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/MdAshiqurRahman98/MdAshiqurRahman98/main/images/Cover%20photo.png" />
 
-## Hi there,
-
-### I am Md Ashiqur Rahman. I am a programmer and CSE graduate. I have completed my graduation in BSc in Computer Science and Engineering at Green University of Bangladesh.
+### I am Md Ashiqur Rahman. I am MERN stack web application developer and CSE graduate. I have completed my graduation in BSc in Computer Science and Engineering at Green University of Bangladesh.
 <br>
 
 ## :computer: Tools & Technologies that I Know
@@ -16,8 +14,8 @@
 
 ## ⚡ Overview
 
-<!-- ### 🌱 I’m exploring - Next.js  -->
-### 💬 Ask me about - SQA, JavaScript, React, Node.js, Express, MongoDB
+### 🌱 I’m exploring - TypeScript, Next.js
+### 💬 Ask me about - JavaScript, React, Node.js, Express, MongoDB
 ### 📫 How to reach me - mdashiqurofficial@gmail.com
 <br>
 
