@@ -8,13 +8,13 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,vscode,netlify,vercel,redux,ts,java&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,html,css,firebase,nodejs,express,mongodb,git,figma,vscode,netlify,vercel,ts,java&perline=5" />
   </a>
 </p><br>
 
 ## ⚡ Overview
 
-### 🌱 I’m exploring - TypeScript, Next.js
+### 🌱 I’m exploring - Redux Toolkit, Next.js
 ### 💬 Ask me about - JavaScript, React, Node.js, Express, MongoDB
 ### 📫 How to reach me - mdashiqurofficial@gmail.com
 <br>
