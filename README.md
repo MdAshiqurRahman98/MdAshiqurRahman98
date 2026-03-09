@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MdAshiqurRahman98/MdAshiqurRahman98/main/images/Cover%20photo.png" />
 
-### I am Md Ashiqur Rahman. I am MERN stack web application developer and CSE graduate. I have completed my graduation in BSc in Computer Science and Engineering at Green University of Bangladesh.
+### I am Md Ashiqur Rahman, a MERN stack web application developer and CSE graduate. I am passionate about computer and web application developing. I dream to be an expert web application developer so that I can build professional and useful web applications.
 <br>
 
 ## :computer: Tools & Technologies that I Know
