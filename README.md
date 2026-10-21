@@ -14,7 +14,7 @@
 
 ## ⚡ Overview
 
-### 🌱 I’m exploring - Redux Toolkit, Next.js
+<!-- ### 🌱 I’m exploring - Redux Toolkit, Next.js -->
 ### 💬 Ask me about - JavaScript, React, Node.js, Express, MongoDB
 ### 📫 How to reach me - mdashiqurofficial@gmail.com
 <br>
